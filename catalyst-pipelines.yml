@@ -15,5 +15,3 @@ stages:
       - - hello-world
         - hello
       - world
-variables:
-  Hi: team
